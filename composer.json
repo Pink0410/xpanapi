@@ -23,8 +23,8 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/psr7": "^2.4.0",
-        "guzzlehttp/guzzle": "^7.4"
+        "guzzlehttp/psr7": "2.*",
+        "guzzlehttp/guzzle": "7.*"
     },
     "autoload": {
         "psr-4": { "OpenAPI\\Client\\" : "src/" }
